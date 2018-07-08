@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "58723255582",
+    "firebase_url": "https://realator-400ac.firebaseio.com",
+    "project_id": "realator-400ac",
+    "storage_bucket": "realator-400ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58723255582:android:434fadbd23dcd529",
+        "android_client_info": {
+          "package_name": "com.example.document.realator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58723255582-gm25l241q25pl3i2e63r6ll50sj4feuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.document.realator",
+            "certificate_hash": "da9403bd00bae86acab40e9ee3e969bd3232df96"
+          }
+        },
+        {
+          "client_id": "58723255582-1cokv7eu0qdis3eh1pbspm1bcmumlr74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSq_n1GKIh3pqrpFxc7hfiefz0eGeIb8E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58723255582-1cokv7eu0qdis3eh1pbspm1bcmumlr74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
